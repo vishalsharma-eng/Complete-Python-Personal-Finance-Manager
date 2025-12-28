@@ -37,6 +37,7 @@ Copy code
 5. Search Expenses
 6. Backup Data
 7. Exit
+
 🔹 Menu Option Details
 1️⃣ Add New Expense
 Allows the user to add a new expense by entering:
@@ -51,12 +52,14 @@ Description
 
 The expense is saved permanently in a CSV file.
 
+
 2️⃣ View All Expenses
 Displays all recorded expenses in the following format:
 
 javascript
 Copy code
 Date | Category | Amount | Description
+
 3️⃣ View Category-wise Summary
 Shows the total amount spent in each category.
 Example:
@@ -65,6 +68,7 @@ makefile
 Copy code
 Food: ₹1500
 Transport: ₹800
+
 4️⃣ Generate Monthly Report
 Generates a report for a specific month.
 User needs to enter the month in:
@@ -86,9 +90,11 @@ Example:
 sql
 Copy code
 Enter search keyword: food
+
 6️⃣ Backup Data
 Creates a backup copy of the expense data file.
 This helps prevent data loss.
+
 
 7️⃣ Exit
 Safely exits the application.
