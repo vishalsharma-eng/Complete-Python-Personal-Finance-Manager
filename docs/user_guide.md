@@ -39,6 +39,7 @@ Copy code
 7. Exit
 
 🔹 Menu Option Details
+
 1️⃣ Add New Expense
 Allows the user to add a new expense by entering:
 
