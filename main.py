@@ -17,7 +17,7 @@ while True:
         date = input("Enter date (YYYY-MM-DD): ")
         desc = input("Enter description: ")
         save_expense(Expense(amount, category, date, desc))
-        print("✅ Expense added successfully!")
+        print("Expense added successfully")
 
     elif choice == "2":
         show_all_expenses()
@@ -39,11 +39,12 @@ while True:
 
     elif choice == "6":
         backup_data()
-        print("✅ Backup created successfully!")
+        print("Backup created successfully")
 
     elif choice == "7":
-        print("Thank you! Exiting program.")
+        print("Thank you")
         break
 
     else:
-        print("❌ Invalid choice")
+        print("Invalid choice")
+
