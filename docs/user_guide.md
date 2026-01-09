@@ -97,10 +97,10 @@ Creates a backup copy of the expense data file.
 This helps prevent data loss.
 
 
-7️⃣ Exit
+## 7. Exit
 Safely exits the application.
 
-📂 Data Storage
+## Data Storage
 All expense data is stored in:
 
 bash
@@ -108,21 +108,21 @@ Copy code
 data/expenses.csv
 Data remains saved even after closing the program.
 
-❗ Error Handling
+## Error Handling
 The program validates numeric input for expense amounts
 
 Prevents invalid menu selections
 
 Displays helpful error messages for incorrect inputs
 
-🔐 Best Practices
+## Best Practices
 Enter correct date format (YYYY-MM-DD)
 
 Backup data regularly
 
 Do not delete the CSV file manually while the program is running
 
-🔮 Future Enhancements
+## Future Enhancements
 Graphical User Interface (GUI)
 
 Budget planning feature
@@ -131,9 +131,9 @@ Data visualization (charts)
 
 Export reports to Excel or PDF
 
-📞 Support
+## Support
 This project is created for educational and internship purposes.
 For improvements or issues, please refer to the project repository.
 
-👤 Author
+## Author
 Vishal Kumar Sharma
