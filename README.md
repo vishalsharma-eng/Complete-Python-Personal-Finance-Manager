@@ -70,7 +70,7 @@ Python-Personal-Finance-Manager/
 
 ---
 
-##-> Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Python 3.x installed on your system
