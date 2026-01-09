@@ -1,6 +1,6 @@
 # Python Personal Finance Manager
 
-## Project Overview
+Project Overview
 The **Python Personal Finance Manager** is a command-line based application designed to help users record, manage, and analyze their daily expenses.  
 The project focuses on core Python concepts such as **Object-Oriented Programming (OOP)**, **file handling using CSV**, **data persistence**, and **modular code structure**.
 
