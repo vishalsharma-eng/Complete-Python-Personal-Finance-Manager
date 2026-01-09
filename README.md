@@ -89,7 +89,7 @@ Run the application:
 
 python main.py
 
-How to Use
+## How to Use
 
 Run the program using python main.py
 
@@ -108,7 +108,7 @@ Enter the required details when prompted
 
 View reports and summaries directly in the terminal
 
-Data Storage
+## Data Storage
 
 All expense records are stored in data/expenses.csv
 
@@ -116,7 +116,7 @@ Data is persisted even after closing the application
 
 Backup copies are created using the backup option
 
-Screenshots
+## Screenshots
 
 Screenshots demonstrating the application functionality are available in the screenshots/ folder:
 
@@ -136,11 +136,11 @@ Expense charts and visualizations
 
 Export reports to Excel or PDF
 
-Testing
+## Testing
 
 Basic test cases can be found in the tests/ directory.
 Testing is optional for this version but can be extended in future updates.
 
-Author
+## Author
 
 Vishal Kumar Sharma
