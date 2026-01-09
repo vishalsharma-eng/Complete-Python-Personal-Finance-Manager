@@ -1,6 +1,6 @@
 # Python Personal Finance Manager
 
-Project Overview
+## Project Overview
 The **Python Personal Finance Manager** is a command-line based application designed to help users record, manage, and analyze their daily expenses.  
 The project focuses on core Python concepts such as **Object-Oriented Programming (OOP)**, **file handling using CSV**, **data persistence**, and **modular code structure**.
 
@@ -8,7 +8,7 @@ This project is suitable for beginners and is built as part of an internship / a
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Track daily expenses efficiently
 - Store expense data persistently using CSV files
 - Generate useful financial summaries and reports
@@ -17,7 +17,7 @@ This project is suitable for beginners and is built as part of an internship / a
 
 ---
 
-## 🚀 Features
+## Features
 - Add new expenses
 - View all recorded expenses
 - Category-wise expense summary
@@ -28,7 +28,7 @@ This project is suitable for beginners and is built as part of an internship / a
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python 3
 - CSV file handling
 - Object-Oriented Programming (OOP)
@@ -37,7 +37,7 @@ This project is suitable for beginners and is built as part of an internship / a
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Python-Personal-Finance-Manager/
 │
 ├── README.md
@@ -70,7 +70,7 @@ Python-Personal-Finance-Manager/
 
 ---
 
-## ⚙️ Installation & Setup
+##-> Installation & Setup
 
 ### Prerequisites
 - Python 3.x installed on your system
@@ -89,7 +89,7 @@ Run the application:
 
 python main.py
 
-🖥️ How to Use
+How to Use
 
 Run the program using python main.py
 
@@ -108,7 +108,7 @@ Enter the required details when prompted
 
 View reports and summaries directly in the terminal
 
-📊 Data Storage
+Data Storage
 
 All expense records are stored in data/expenses.csv
 
@@ -116,7 +116,7 @@ Data is persisted even after closing the application
 
 Backup copies are created using the backup option
 
-📸 Screenshots
+Screenshots
 
 Screenshots demonstrating the application functionality are available in the screenshots/ folder:
 
@@ -126,7 +126,7 @@ Add Expense
 
 Reports & Summary
 
-🔮 Future Enhancements
+Future Enhancements
 
 Graphical User Interface (GUI) using Tkinter
 
@@ -136,11 +136,11 @@ Expense charts and visualizations
 
 Export reports to Excel or PDF
 
-🧪 Testing
+Testing
 
 Basic test cases can be found in the tests/ directory.
 Testing is optional for this version but can be extended in future updates.
 
-👤 Author
+Author
 
 Vishal Kumar Sharma
